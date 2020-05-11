@@ -1,0 +1,18 @@
+{
+  "name": "node-pokedex-tutorial",
+  "description": "A Simple Application for deploying to gcloud with basic nodejs and html/css/javascript.",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Brian Corbin",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "pg": "^8.1.0"
+  },
+  "devDependencies": {}
+}
