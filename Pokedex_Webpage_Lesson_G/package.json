@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "pg": "^8.1.0"
+    "pg": "^8.11.0"
   },
   "devDependencies": {}
 }
